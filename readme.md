@@ -82,13 +82,6 @@ cd sale-deed-generator
 npm install
 2️⃣ Start the Server
 bash
-Copy
-Edit
 npm start
 3️⃣ Open in Browser
-Visit:
-
-arduino
-Copy
-Edit
-http://localhost:3000
+Visit: http://localhost:3000
