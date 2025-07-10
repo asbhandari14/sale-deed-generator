@@ -4,7 +4,7 @@ A full-stack web application that generates professional **sale deed PDF documen
 
 ---
 
-## 🚀 Complete Solution Overview
+<!-- ## 🚀 Complete Solution Overview
 
 ### 🛠 Tech Stack
 - **Backend**: Node.js + Express.js
@@ -33,9 +33,9 @@ Dynamic HTML template matching exact format:
 - Automatically triggers a download in the browser
 - Professional layout and formatting for legal documents
 
----
+--- -->
 
-## 📁 Project Structure
+<!-- ## 📁 Project Structure
 
 sale-deed-generator/
 ├── server.js # Express server & Puppeteer logic
@@ -51,16 +51,16 @@ yaml
 Copy
 Edit
 
----
+--- -->
 
-## 🎨 Design Highlights
+<!-- ## 🎨 Design Highlights
 
 - 🌈 **Modern UI** with clean gradients and readable layout
 - 📱 **Responsive**: Works across desktop & mobile devices
 - ⚙️ **Loading states**, form validation, and success feedback
 - 📄 **Professional PDF** formatting suitable for legal use
 
----
+--- -->
 
 ## 🧪 Sample PDF Output
 
@@ -80,8 +80,12 @@ The generated PDF includes:
 git clone https://github.com/your-username/sale-deed-generator.git
 cd sale-deed-generator
 npm install
+
+
 2️⃣ Start the Server
 bash
 npm start
+
+
 3️⃣ Open in Browser
 Visit: http://localhost:3000
